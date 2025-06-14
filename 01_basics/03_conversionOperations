@@ -1,0 +1,17 @@
+let score = "33pts"
+console.log(typeof score);
+
+let valvueInNumber = Number(score)
+console.log(typeof valvueInNumber);
+console.log(valvueInNumber);
+
+// "33" => 33
+//"33pts" => NaN
+// true => 1; False=> 0
+
+
+let loggedIn = 1
+let booleanLOggedIn = Boolean(loggedIn)
+console.log(booleanLOggedIn);
+
+
